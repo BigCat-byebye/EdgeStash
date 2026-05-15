@@ -20,6 +20,8 @@
 - PDF 预览支持 Range 请求，适配浏览器内置 PDF 预览器
 - 目录列表缓存到 KV，减少频繁读取 R2
 
+![展示](merged-images.png)
+
 ## 文件结构
 
 当前项目只需要这个 Worker 文件：
